@@ -1,8 +1,8 @@
 ---
-layout: posts
+layout: category
 title: "Music"
-collection: music
 permalink: /music/
+taxonomy: music
 author_profile: true
 ---
 

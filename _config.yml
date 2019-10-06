@@ -313,24 +313,24 @@ defaults:
       layout: single
       author_profile: true
   # _machine_learning
-  - scope:
-      path: ""
-      type: machine_learning
-    values:
-      layout: single
-      author_profile: true
-      read_time: true
-      comments:
-      share: true
-      related: true
-  # _music
-  - scope:
-      path: ""
-      type: music
-    values:
-      layout: single
-      author_profile: true
-      read_time: true
-      comments:
-      share: true
-      related: true
+#  - scope:
+#      path: ""
+#      type: machine_learning
+#    values:
+#      layout: single
+#      author_profile: true
+#      read_time: true
+#      comments:
+#      share: true
+#      related: true
+#  # _music
+#  - scope:
+#      path: ""
+#      type: music
+#    values:
+#      layout: single
+#      author_profile: true
+#      read_time: true
+#      comments:
+#      share: true
+#      related: true

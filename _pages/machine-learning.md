@@ -1,7 +1,7 @@
 ---
-layout: tags
+layout: category
 title: "Machine Learning"
-collection: machine_learning
+taxonomy: machine_learning
 permalink: /machine-learning/
 author_profile: true
 ---
