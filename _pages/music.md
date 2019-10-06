@@ -1,9 +1,9 @@
 ---
-layout: collection
-title: "Recipes"
-collection: recipes
-permalink: /recipes-archive/
-author_profile: false
+layout: posts
+title: "Music"
+collection: music
+permalink: /music/
+author_profile: true
 ---
 
-Sample document listing for the collection `_recipes`.
+Sample document listing for the collection `_music`.

@@ -281,7 +281,7 @@ compress_html:
 
 # Collections
 collections:
-  machine learning:
+  machine_learning:
     output: true
     permalink: /:collection/:path/
   music:
@@ -312,3 +312,25 @@ defaults:
     values:
       layout: single
       author_profile: true
+  # _machine_learning
+  - scope:
+      path: ""
+      type: machine_learning
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      comments:
+      share: true
+      related: true
+  # _music
+  - scope:
+      path: ""
+      type: music
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      comments:
+      share: true
+      related: true
