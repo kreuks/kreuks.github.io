@@ -1,8 +1,8 @@
 # main links
 main:
   - title: "About"
-    url: /about/
+    url: /terms/
   - title: "Machine Learning"
-    url: /tag-archive/
+    url: /tags/
   - title: "Music"
     url: /tag-archive/
