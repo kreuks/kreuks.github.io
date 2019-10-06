@@ -57,3 +57,9 @@ header:
     id: 212731897
     provider: vimeo
 ```
+
+[soundcloud url="https://api.soundcloud.com/tracks/199026943" params="auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&visual=true" width="100%" height="450" iframe="true" /]
+<iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https://api.soundcloud.com/tracks/199026943">
+</iframe>
+
+<iframe width="560" height="315" src="http://www.youtube.com/embed/PWf4WUoMXwg" frameborder="0"> </iframe>

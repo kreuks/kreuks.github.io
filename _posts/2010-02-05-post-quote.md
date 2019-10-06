@@ -1,7 +1,7 @@
 ---
 title: "Post: Quote"
 categories:
-  - machine_learning
+  - machine learning
 tags:
   - Post Formats
   - quote
